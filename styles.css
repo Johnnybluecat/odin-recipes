@@ -1,0 +1,14 @@
+body {
+    background-color: azure;
+}
+.title {
+    font-size: 50px;
+}
+a, li {
+    text-decoration: none;
+    list-style: none;
+    font-size: 40px;
+}
+section {
+    text-align: center;
+}
